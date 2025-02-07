@@ -17,9 +17,7 @@
 
 Установка
 
-Клонируйте репозиторий:
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+Скачайте файл Корректор_ру.ipynb, запустите в Google Colab. Для реализации проверки потребуются текстовые файлы: input.txt, reference.txt.
 
 
 Требования
